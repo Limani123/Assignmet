@@ -15,6 +15,10 @@ numpy
 dataset:
 we are using the dataset that was given in the assignment.
 
+dataset distribution:
+We are spliting the dataset into training, testing and validation set. 
+
+
 To run a code:
 put dataset file in the same folder as the code then in terminal type the below command:
 python text_classification.py

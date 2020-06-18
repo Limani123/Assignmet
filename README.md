@@ -18,7 +18,13 @@ we are using the dataset that was given in the assignment.
 dataset distribution:
 We are spliting the dataset into training, testing and validation set. 
 
+Accuracy
+We are getting above 90% accuracy on different distribution of dataset.
+
 
 To run a code:
 put dataset file in the same folder as the code then in terminal type the below command:
-python text_classification.py
+python text_classification.py.
+At the end it is also asking for user input to classify the user sentence. Here it using the saved model used in the code to predict the result.
+
+

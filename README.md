@@ -7,9 +7,9 @@ The given assignment is based on text classification so we are using Universal S
 
 
 Requirements:
-tensorflow
-pandas
-sklearn
+tensorflow,
+pandas,
+sklearn,
 numpy
 
 dataset:
